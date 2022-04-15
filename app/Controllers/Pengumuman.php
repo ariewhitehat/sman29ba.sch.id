@@ -39,7 +39,7 @@ class Pengumuman extends BaseController
         } else {
             $kelulusan = $this->kelulusanModel;
         }
-        dd($nisn);
+        //dd($nisn);
 
         $data = [
             'title' => 'Pengumuman Kelulusan',

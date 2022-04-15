@@ -42,7 +42,7 @@
                         <a class="nav-link" href="<?= base_url('#tas') ?>">SPE-TU</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../" target="_blank">Kelulusan</a>
+                        <a class="nav-link" href="../pengumuman" target="_blank">Kelulusan</a>
                     </li>
                 </ul>
             </div>

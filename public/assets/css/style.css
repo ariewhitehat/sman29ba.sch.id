@@ -73,3 +73,15 @@ section {
 .bg-custom {
   background-color: #0b308f!important;
 }
+.section-pengumuman {
+  /* background: rgb(255, 174, 0);
+  background: -moz-linear-gradient(203deg, rgba(255, 174, 0, 1) 0%, rgba(0, 169, 255, 1) 100%);
+  background: -webkit-linear-gradient(203deg, rgba(255, 174, 0, 1) 0%, rgba(0, 169, 255, 1) 100%);
+  background: linear-gradient(203deg, rgba(255, 174, 0, 1) 0%, rgba(0, 169, 255, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffae00", endColorstr="#00a9ff", GradientType=1); */
+  background: rgb(255, 170, 0);
+  background: -moz-linear-gradient(203deg, rgba(255, 170, 0, 1) 0%, rgba(97, 0, 255, 1) 100%);
+  background: -webkit-linear-gradient(203deg, rgba(255, 170, 0, 1) 0%, rgba(97, 0, 255, 1) 100%);
+  background: linear-gradient(203deg, rgba(255, 170, 0, 1) 0%, rgba(97, 0, 255, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffaa00", endColorstr="#6100ff", GradientType=1);
+}

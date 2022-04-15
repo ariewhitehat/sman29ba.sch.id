@@ -17,7 +17,7 @@
 
 <body>
     <!-- Begin of Navigations -->
-    <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+    <nav class="navbar navbar-expand-md navbar-dark bg-custom fixed-top">
         <div class="container">
             <a class="navbar-brand" href="<?= base_url('home') ?>">SMAN 29 Banyuasin</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,10 +38,10 @@
                         <a class="nav-link" href="<?= base_url('#kontak'); ?>">Kontak</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('pengumuman'); ?>">Pengumuman</a>
+                        <a class="nav-link" href="<?= base_url('tas'); ?>">TU/TAS App</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('tas'); ?>">TU/TAS App</a>
+                        <a class="nav-link" href="<?= base_url('pengumuman'); ?>">Pengumuman</a>
                     </li>
                 </ul>
             </div>
@@ -55,7 +55,7 @@
     <footer class="text-muted text-center">
         <div class="container">
             <p class="mb-1">
-                &copy; Copyright <?= date('Y') ?> UPT SMAN 29 BANYUASIN | Develop by
+                &copy; Copyright <?= date('Y') ?> SMAN 1 Sumber Marga Telang | Develop by
                 <a href="https://instagram.com/ariewhitehat" class="text-reset"><span class="text-danger"><i class="bi bi-instagram"></i></span> Samsul Bari</a>
             </p>
             <ul class="list-inline no-margin">
